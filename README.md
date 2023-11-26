@@ -1,4 +1,6 @@
-![basic backend egyptian council](https://github.com/christinMokbel/christinMokbel/assets/152090106/3de61a75-a5ca-4431-8812-271545fa1b25)Name:   Christin Mokbel Elias
+![basic backend egyptian council](https://github.com/christinMokbel/christinMokbel/assets/152090106/3de61a75-a5ca-4431-8812-271545fa1b25)
+
+Name:   Christin Mokbel Elias
 E-mail: christin_mokbel@yahoo.com
 Mobile: 01273538122
 
@@ -42,11 +44,10 @@ o	Hobbies :
 •	Writing stories to children.
 •	Drawing pictures. (especially in Coptic manner)
 o	Objectives :
-•	It is a great pleasure to be a member of your team .
+•	It is a great pleasure to be backend developer on your team .
 
 o	Personal  Data:
 •	Address             : 13 Moustafa Ghanim street - Masera , Shubra Misr, Cairo                   
 •	Date of birth     : 20 Sep. 1987
 •	Marital status: single
-References available upon request.
 
